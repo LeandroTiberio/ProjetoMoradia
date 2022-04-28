@@ -1,0 +1,15 @@
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.csproj.AssemblyReference.cache
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.AssemblyInfoInputs.cache
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.AssemblyInfo.cs
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Desktop\ProjetoMoradia\bin\Debug\net6.0\ProjetoMoradia.exe
+C:\Users\Carla\Desktop\ProjetoMoradia\bin\Debug\net6.0\ProjetoMoradia.deps.json
+C:\Users\Carla\Desktop\ProjetoMoradia\bin\Debug\net6.0\ProjetoMoradia.runtimeconfig.json
+C:\Users\Carla\Desktop\ProjetoMoradia\bin\Debug\net6.0\ProjetoMoradia.dll
+C:\Users\Carla\Desktop\ProjetoMoradia\bin\Debug\net6.0\ProjetoMoradia.pdb
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.dll
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\refint\ProjetoMoradia.dll
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.pdb
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ProjetoMoradia.genruntimeconfig.cache
+C:\Users\Carla\Desktop\ProjetoMoradia\obj\Debug\net6.0\ref\ProjetoMoradia.dll
